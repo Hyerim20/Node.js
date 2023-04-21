@@ -24,7 +24,7 @@ setTimeout(()=>{console.log("5초 지남")}, 5000)
  
 
 ```jsx
-const expree = require('express') //express 요구
+const express = require('express') //express 요구
 const app = express()
 const port = 3000
 
